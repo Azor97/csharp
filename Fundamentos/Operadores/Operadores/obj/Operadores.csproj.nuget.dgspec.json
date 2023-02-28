@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Operadores\\Operadores\\Operadores.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\Operadores\\Operadores\\Operadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Operadores\\Operadores\\Operadores.csproj": {
+    "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\Operadores\\Operadores\\Operadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Operadores\\Operadores\\Operadores.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\Operadores\\Operadores\\Operadores.csproj",
         "projectName": "Operadores",
-        "projectPath": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Operadores\\Operadores\\Operadores.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\Operadores\\Operadores\\Operadores.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Operadores\\Operadores\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\Operadores\\Operadores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

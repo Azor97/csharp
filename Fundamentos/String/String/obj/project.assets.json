@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\estudos\\estudos-desenvolvimento\\csharp\\Fundamentos\\String\\String\\String.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\String\\String\\String.csproj",
       "projectName": "String",
-      "projectPath": "C:\\Users\\Daniel\\Documents\\estudos\\estudos-desenvolvimento\\csharp\\Fundamentos\\String\\String\\String.csproj",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\String\\String\\String.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Documents\\estudos\\estudos-desenvolvimento\\csharp\\Fundamentos\\String\\String\\obj\\",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\estudos\\csharp\\Fundamentos\\String\\String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
