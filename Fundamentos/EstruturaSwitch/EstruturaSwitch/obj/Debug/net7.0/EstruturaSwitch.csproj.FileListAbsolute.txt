@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\bin\Debug\net7.0\EstruturaSwitch.exe
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\bin\Debug\net7.0\EstruturaSwitch.deps.json
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\bin\Debug\net7.0\EstruturaSwitch.runtimeconfig.json
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\bin\Debug\net7.0\EstruturaSwitch.dll
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\bin\Debug\net7.0\EstruturaSwitch.pdb
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.AssemblyInfo.cs
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.dll
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\refint\EstruturaSwitch.dll
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.pdb
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\EstruturaSwitch.genruntimeconfig.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaSwitch\EstruturaSwitch\obj\Debug\net7.0\ref\EstruturaSwitch.dll
