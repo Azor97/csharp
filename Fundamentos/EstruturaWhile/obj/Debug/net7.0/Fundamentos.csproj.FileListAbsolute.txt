@@ -1,0 +1,15 @@
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\bin\Debug\net7.0\Fundamentos.exe
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\bin\Debug\net7.0\Fundamentos.deps.json
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\bin\Debug\net7.0\Fundamentos.dll
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\bin\Debug\net7.0\Fundamentos.pdb
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.dll
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\refint\Fundamentos.dll
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.pdb
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaWhile\obj\Debug\net7.0\ref\Fundamentos.dll

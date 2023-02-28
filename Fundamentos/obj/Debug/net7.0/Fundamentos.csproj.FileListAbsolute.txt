@@ -1,0 +1,5 @@
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache

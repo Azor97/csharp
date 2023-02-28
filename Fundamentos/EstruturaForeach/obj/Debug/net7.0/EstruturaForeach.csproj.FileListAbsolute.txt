@@ -1,0 +1,15 @@
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\bin\Debug\net7.0\EstruturaForeach.exe
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\bin\Debug\net7.0\EstruturaForeach.deps.json
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\bin\Debug\net7.0\EstruturaForeach.runtimeconfig.json
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\bin\Debug\net7.0\EstruturaForeach.dll
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\bin\Debug\net7.0\EstruturaForeach.pdb
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.csproj.AssemblyReference.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.AssemblyInfoInputs.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.AssemblyInfo.cs
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.csproj.CoreCompileInputs.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.dll
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\refint\EstruturaForeach.dll
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.pdb
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\EstruturaForeach.genruntimeconfig.cache
+C:\Users\Arte Final\Documents\GitHub\csharp\Fundamentos\EstruturaForeach\obj\Debug\net7.0\ref\EstruturaForeach.dll
