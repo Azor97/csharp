@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\bin\Debug\net7.0\EstruturaDeCondicoes.exe
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\bin\Debug\net7.0\EstruturaDeCondicoes.deps.json
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\bin\Debug\net7.0\EstruturaDeCondicoes.runtimeconfig.json
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\bin\Debug\net7.0\EstruturaDeCondicoes.dll
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\bin\Debug\net7.0\EstruturaDeCondicoes.pdb
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.AssemblyInfo.cs
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.dll
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\refint\EstruturaDeCondicoes.dll
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.pdb
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\EstruturaDeCondicoes.genruntimeconfig.cache
+C:\Users\Daniel\Documents\estudos\csharp\Fundamentos\EstruturaDeCondicoes\EstruturaDeCondicoes\obj\Debug\net7.0\ref\EstruturaDeCondicoes.dll
