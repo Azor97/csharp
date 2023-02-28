@@ -1,2 +1,3 @@
 # csharp
- C# Estudos
+ C# Estudos basicos
+Inicio dos estudos em C# e .NET
