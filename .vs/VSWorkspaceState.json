@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Fundamentos",
-    "\\Fundamentos\\Operadores",
     "\\Fundamentos\\Operadores\\Operadores",
-    "\\Fundamentos\\String"
+    "\\Fundamentos\\String\\String"
   ],
-  "SelectedNode": "\\Fundamentos\\Operadores\\Operadores\\Program.cs",
+  "SelectedNode": "\\Fundamentos\\Operadores",
   "PreviewInSolutionExplorer": false
 }
