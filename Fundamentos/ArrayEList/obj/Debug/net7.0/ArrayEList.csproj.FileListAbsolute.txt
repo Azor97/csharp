@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\bin\Debug\net7.0\ArrayEList.exe
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\bin\Debug\net7.0\ArrayEList.deps.json
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\bin\Debug\net7.0\ArrayEList.runtimeconfig.json
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\bin\Debug\net7.0\ArrayEList.dll
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\bin\Debug\net7.0\ArrayEList.pdb
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.AssemblyInfo.cs
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.dll
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\refint\ArrayEList.dll
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.pdb
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ArrayEList.genruntimeconfig.cache
+C:\Users\Daniel\Documents\estudos\csharp\fundamentos\ArrayEList\obj\Debug\net7.0\ref\ArrayEList.dll
